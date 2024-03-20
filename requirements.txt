@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+openai-clip
+nltk
+seaborn
+matplotlib
